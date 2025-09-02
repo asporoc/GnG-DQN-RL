@@ -9,4 +9,4 @@ Firstly I Tried to solve the Game with a DQN which was extremly similar to the S
 Secondly I implemented it again with a Single Q network which as expected did not work as well as the DQN but still showed some improvement over the same time. But as expected the Agent took much longer to show any improvement and failed to actually survive for longer Times.
 
 ## Conclusion
-The Conclusion of my Project was that a Q-Network can certainly work but because of the slower convergence than that of a DQN it Takes a significant amount of time to actually show any improvement.g
+The Conclusion of my Project was that a Q-Network can certainly work but because of the slower convergence than that of a DQN it Takes a significant amount of time to actually show any improvement. There is probably room for improvement in the Code which would lead to a faster Convergence as this was my first attempt at Pytorch.
